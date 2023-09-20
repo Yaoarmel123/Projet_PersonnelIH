@@ -1,0 +1,47 @@
+Body{
+    Background : #67BE4B ;
+    background-image: url(images/6.jpg);
+   }
+#container{
+    Width :400px ;
+    Margin :0 auto ;
+    Margin-top :10% ;
+   }
+/* Bordered form */
+form {
+    Width :100% ;
+    Padding : 30px ;
+    Border : 1px solid #f1f1f1 ;
+    Background : #fff ;
+    Box-shadow : 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24) ;
+   }
+   #container {
+    Width : 38% ;
+    Margin : 0 auto ;
+    Padding-bottom : 10px ;
+   }
+/* Full-width inputs */
+input[type=text], input[type=password] {
+    Width : 100% ;
+    Padding : 12px 20px ;
+    Margin : 8px 0 ;
+    Display : inline-block ;
+    Border : 1px solid #ccc ;
+    Box-sizing : border-box ;
+   }
+/* Set a style for all buttons */
+input[type=submit] {
+    Background-color : #53af57 ;
+    Color : white ;
+    Padding : 14px 20px ;
+    Margin : 8px 0 ;
+    Border : none ;
+    Cursor : pointer ;
+    Width : 100% ;
+   }
+   input[type=submit] :hover {
+    Background-color : white ;
+    Color : #53af57 ;
+    Border : 1px solid #53af57 ;
+   }
+   

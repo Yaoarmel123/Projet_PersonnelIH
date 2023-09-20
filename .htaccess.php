@@ -1,0 +1,5 @@
+Options -Indexes
+DirectoryIndex etudiant.php
+ErrorDocument 404 /err404.html
+ErrorDocument 404 http : //www.monautresite.net
+ErrorDocument 403 /accesrefuse.html
